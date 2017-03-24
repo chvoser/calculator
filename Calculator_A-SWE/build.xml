@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Calculator_SWE">
+
+<property name="build_dir" value="build" />
+
+<target name="build">
+	<mkdir dir="${build_dir}"/>
+<!-- compile, link, package ... -->
+
+</target>
+
+<target name="clean">
+	<delete dir="${build_dir}">
+</target>
+
+</project>
